@@ -20,7 +20,7 @@ While the statistical models provide a robust baseline, the project conclusion e
 Final Report
 For a complete and detailed discussion of the methodology, analysis, findings, and conclusions, please view the full project report on Google Docs:
 
-View the Full Report Here
+View the Full Report: https://docs.google.com/document/d/1hpr4m34ZdNGGLjYXUDIzYP4nvcwHFmZxQ_H46cs1pCM/edit?usp=sharing
 
 ## Data Sources
 The analysis is based on data compiled from several official sources:
